@@ -1,0 +1,148 @@
+Uri: https://archive.org/includes/analytics.js?v=cf34f82
+File Name: K:\web.archive.org\includes\analytics.js
+Content Type: application/x-javascript
+
+Uri: https://archive.org/services/img/alexacrawls
+File Name: K:\web.archive.org\services\img\alexacrawls
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20140131141646cs_/http://cdn4.store.steampowered.com/public/css/styles_aboutv5.css?v=3844728714
+File Name: K:\web.archive.org\web\20140131141646cs_\http\cdn4.store.steampowered.com\public\css\styles_aboutv5.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20140131141646im_/http://cdn4.steampowered.com/v/gfx/clusters/about_i18n_assets/about_i18n_assets_0/greeting_text_english.png?t=1387478364
+File Name: K:\web.archive.org\web\20140131141646im_\http\cdn4.steampowered.com\v\gfx\clusters\about_i18n_assets\about_i18n_assets_0\greeting_text_english.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140131141648im_/http://cdn4.steampowered.com/v/gfx/clusters/about_i18n_assets/about_i18n_assets_0/install_button_english.png?t=1387478364
+File Name: K:\web.archive.org\web\20140131141648im_\http\cdn4.steampowered.com\v\gfx\clusters\about_i18n_assets\about_i18n_assets_0\install_button_english.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140131141650im_/http://cdn4.store.steampowered.com/public/images/about/pc_image.png
+File Name: K:\web.archive.org\web\20140131141650im_\http\cdn4.store.steampowered.com\public\images\about\pc_image.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140131141655im_/http://cdn4.store.steampowered.com/public/images/about/tappet.png
+File Name: K:\web.archive.org\web\20140131141655im_\http\cdn4.store.steampowered.com\public\images\about\tappet.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140131141658im_/http://cdn4.store.steampowered.com/public/images/about/roderick.png
+File Name: K:\web.archive.org\web\20140131141658im_\http\cdn4.store.steampowered.com\public\images\about\roderick.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140131141701im_/http://cdn4.store.steampowered.com/public/images/about/cyl.png
+File Name: K:\web.archive.org\web\20140131141701im_\http\cdn4.store.steampowered.com\public\images\about\cyl.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140131141705im_/http://cdn4.store.steampowered.com/public/images/about/devices.png
+File Name: K:\web.archive.org\web\20140131141705im_\http\cdn4.store.steampowered.com\public\images\about\devices.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140131141706im_/http://cdn4.store.steampowered.com/public/images/v5/about/ubuntu_logo.png
+File Name: K:\web.archive.org\web\20140131141706im_\http\cdn4.store.steampowered.com\public\images\v5\about\ubuntu_logo.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140131141708im_/http://cdn4.store.steampowered.com/public/images/v5/about/tux2.png
+File Name: K:\web.archive.org\web\20140131141708im_\http\cdn4.store.steampowered.com\public\images\v5\about\tux2.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140131214029cs_/http://cdn4.store.steampowered.com/public/shared/css/shared_global.css?v=4082716729
+File Name: K:\web.archive.org\web\20140131214029cs_\http\cdn4.store.steampowered.com\public\shared\css\shared_global.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20140131214033cs_/http://cdn4.store.steampowered.com/public/css/styles_storev5.css?v=3053567242
+File Name: K:\web.archive.org\web\20140131214033cs_\http\cdn4.store.steampowered.com\public\css\styles_storev5.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20140131214050js_/http://cdn4.store.steampowered.com/public/javascript/swfobject.js?v=168155259&l=english
+File Name: K:\web.archive.org\web\20140131214050js_\http\cdn4.store.steampowered.com\public\javascript\swfobject.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20140131214051js_/http://cdn4.store.steampowered.com/public/javascript/prototype-1.7.js?v=3717952690&l=english
+File Name: K:\web.archive.org\web\20140131214051js_\http\cdn4.store.steampowered.com\public\javascript\prototype-1.7.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20140131214053js_/http://cdn4.store.steampowered.com/public/javascript/scriptaculous/scriptaculous.js?v=135291963&l=english&load=effects,controls,slider
+File Name: K:\web.archive.org\web\20140131214053js_\http\cdn4.store.steampowered.com\public\javascript\scriptaculous\scriptaculous.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20140131214058js_/http://cdn4.store.steampowered.com/public/javascript/javascript.js?v=3061611015&l=english
+File Name: K:\web.archive.org\web\20140131214058js_\http\cdn4.store.steampowered.com\public\javascript\javascript.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20140131214109js_/http://cdn4.store.steampowered.com/public/javascript/main.js?v=3912296140&l=english
+File Name: K:\web.archive.org\web\20140131214109js_\http\cdn4.store.steampowered.com\public\javascript\main.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20140131214112js_/http://cdn4.store.steampowered.com/public/shared/javascript/jquery-1.8.3.min.js?v=138226611&l=english
+File Name: K:\web.archive.org\web\20140131214112js_\http\cdn4.store.steampowered.com\public\shared\javascript\jquery-1.8.3.min.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20140131214113js_/http://cdn4.store.steampowered.com/public/shared/javascript/tooltip.js?v=3951716057&l=english
+File Name: K:\web.archive.org\web\20140131214113js_\http\cdn4.store.steampowered.com\public\shared\javascript\tooltip.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20140131214117js_/http://cdn4.store.steampowered.com/public/shared/javascript/shared_global.js?v=1153402071&l=english
+File Name: K:\web.archive.org\web\20140131214117js_\http\cdn4.store.steampowered.com\public\shared\javascript\shared_global.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/web/20140131214132im_/http://cdn4.store.steampowered.com/public/images/v5/globalheader_logo.png
+File Name: K:\web.archive.org\web\20140131214132im_\http\cdn4.store.steampowered.com\public\images\v5\globalheader_logo.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140131214731im_/http://cdn3.store.steampowered.com/public/images/ico/ico_rss2.gif
+File Name: K:\web.archive.org\web\20140131214731im_\http\cdn3.store.steampowered.com\public\images\ico\ico_rss2.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20140131214737im_/http://cdn3.store.steampowered.com/public/images/logo_valve_footer.jpg
+File Name: K:\web.archive.org\web\20140131214737im_\http\cdn3.store.steampowered.com\public\images\logo_valve_footer.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20140201050635/http://store.steampowered.com/about
+File Name: K:\web.archive.org\web\20140201050635\http\store.steampowered.com\about.html
+Content Type: text/html
+
+Uri: https://web.archive.org/web/20140201152854js_/http://cdn4.store.steampowered.com/public/javascript/gamehighlightplayer.js?v=3275928878&l=english
+File Name: K:\web.archive.org\web\20140201152854js_\http\cdn4.store.steampowered.com\public\javascript\gamehighlightplayer.js
+Content Type: text/javascript
+
+Uri: https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt
+File Name: K:\web.archive.org\_static\css\banner-styles.css
+Content Type: text/css
+
+Uri: https://web.archive.org/_static/css/iconochive.css?v=qtvMKcIJ
+File Name: K:\web.archive.org\_static\css\iconochive.css
+Content Type: text/css
+
+Uri: https://web.archive.org/_static/images/loading.gif
+File Name: K:\web.archive.org\_static\images\loading.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png
+File Name: K:\web.archive.org\_static\images\toolbar\wayback-toolbar-logo-100.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png
+File Name: K:\web.archive.org\_static\images\toolbar\wayback-toolbar-logo-150.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png
+File Name: K:\web.archive.org\_static\images\toolbar\wayback-toolbar-logo-200.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png
+File Name: K:\web.archive.org\_static\images\toolbar\wm_tb_nxt_on.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png
+File Name: K:\web.archive.org\_static\images\toolbar\wm_tb_prv_on.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/js/bundle-playback.js?v=MzYkZ0TU
+File Name: K:\web.archive.org\_static\js\bundle-playback.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/_static/js/wombat.js?v=UHAOicsW
+File Name: K:\web.archive.org\_static\js\wombat.js
+Content Type: application/javascript
+
